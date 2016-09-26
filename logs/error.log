@@ -1,0 +1,24 @@
+重命名文件失败 { [Error: ENOENT: no such file or directory, rename 'source/a/upload/20165519591336vv4562.mp4' -> 'source/a/upload/20165519591336vv4562.mp4.Done']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'rename',
+  path: 'source/a/upload/20165519591336vv4562.mp4',
+  dest: 'source/a/upload/20165519591336vv4562.mp4.Done' }
+重命名文件失败 { [Error: ENOENT: no such file or directory, rename 'source/a/upload/2016551959w6684.mp4' -> 'source/a/upload/2016551959w6684.mp4.Done']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'rename',
+  path: 'source/a/upload/2016551959w6684.mp4',
+  dest: 'source/a/upload/2016551959w6684.mp4.Done' }
+重命名文件失败 { [Error: ENOENT: no such file or directory, rename 'source/a/upload/20165519596684.mp4' -> 'source/a/upload/20165519596684.mp4.Done']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'rename',
+  path: 'source/a/upload/20165519596684.mp4',
+  dest: 'source/a/upload/20165519596684.mp4.Done' }
+重命名文件失败 { [Error: ENOENT: no such file or directory, rename 'source/a/upload/20165519594554vq86614.mp4' -> 'source/a/upload/20165519594554vq86614.mp4.Done']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'rename',
+  path: 'source/a/upload/20165519594554vq86614.mp4',
+  dest: 'source/a/upload/20165519594554vq86614.mp4.Done' }
